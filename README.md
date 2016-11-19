@@ -12,7 +12,6 @@ WebContainer server required:
 Apache Tomcat v6.0.28 ou superior.
 
 #Frameworks:
-#
 Hibernate - Persistência dos dados.
 
 Java Persistence API (JPA) – Implementa o padrão em mapeamento objeto-relacional para POJOs.
