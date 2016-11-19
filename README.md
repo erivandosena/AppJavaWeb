@@ -11,17 +11,26 @@ Eclipse Europa 3.3.2 ou superior.
 WebContainer server required:
 Apache Tomcat v6.0.28 ou superior.
 
-Frameworks:
+#Frameworks:
+#
 Hibernate - Persistência dos dados.
-Java Persistence API (JPA) – Implementa o padrão em mapeamento objeto-relacional para POJOs.
-Apache Log4j - Saídas de exceções e erros na aplicação.
-JavaServer Faces (JSF) - Interfaces de usuário baseadas em web.
-Primefaces – Upload e visualização de imagem.
-C3p0 – Gerência do pool de conexões.
-Ehcache – Cache de páginas para melhoria no desempenho da aplicação.
-JasperReports - Geração dinâmica de relatórios.
-Spring – Inversão de controle e injeção de dependência.
 
+Java Persistence API (JPA) – Implementa o padrão em mapeamento objeto-relacional para POJOs.
+
+Apache Log4j - Saídas de exceções e erros na aplicação.
+
+JavaServer Faces (JSF) - Interfaces de usuário baseadas em web.
+
+Primefaces – Upload e visualização de imagem.
+
+C3p0 – Gerência do pool de conexões.
+
+Ehcache – Cache de páginas para melhoria no desempenho da aplicação.
+
+JasperReports - Geração dinâmica de relatórios.
+
+Spring – Inversão de controle e injeção de dependência.
+#
 Relational Database:
 PostgreSQL 8.3 ou superior. - Para o armazenados das informações.
 
@@ -36,4 +45,3 @@ DAO - CRUD para as operações de Inserção, Seleção, Atualização e Exclus�
 #
 Deploy the app:
 Requires generate a file Java WAR package in format ROOT.war.
-
