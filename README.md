@@ -1,5 +1,6 @@
 # AppJavaWeb
 AppWeb is a template to quickly start a web application in Java or dynamic Java web site, has an administrative area with an intuitive and easy to use interface for publishing articles, news, etc and registering new pages.
+<<<<<<< HEAD
 
 # Technologies used:
 Programming language:
@@ -36,3 +37,5 @@ DAO - CRUD para as operações de Inserção, Seleção, Atualização e Exclus�
 
 Deploy the app:
 Requires generate a file Java WAR package in format ROOT.war.
+=======
+>>>>>>> 9676e136b723285876d74f0797ca46b93efd5a05
